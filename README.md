@@ -76,3 +76,9 @@ Santos/SP
 
 * 2006/2009 - **Imagem Studio**
 > Atuei na área de Design Gráfico, fazendo artes para álbuns de casamento utilizando Photoshop.
+
+---
+
+## Formação
+
+* **Graduação** - Produção Multimídia pela Universidade Santa Cecília
