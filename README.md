@@ -4,8 +4,11 @@ Santos/SP
 ---
 ####Front-end Developer
 **Telefone:** (13) 981813181
+
 **E-mail:** mateus.poliveira@outlook.com
+
 **Linkedin:** [https://www.linkedin.com/in/mateus-prudencio-oliveira-b4a3b429](https://www.linkedin.com/in/mateus-prudencio-oliveira-b4a3b429)
+
 **Github:** mrxmath
 
 ---
