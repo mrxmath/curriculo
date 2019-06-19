@@ -1,5 +1,5 @@
 # Mateus Prudencio Oliveira
-Santos/SP
+São Paulo/SP
 
 ---
 ####Front-end Developer
@@ -24,12 +24,9 @@ Santos/SP
 **Front-end:**
 * HTML5/CSS3
 * Pré-processadores (Sass, Scss)
-* Bootstrap
-* Foundation
 * Responsive Design
-* Automatizadores (Grunt, Gulp)
+* Automatizadores (Gulp)
 * Javascript
-* jQuery
 * VueJs
 
 
@@ -50,7 +47,10 @@ Santos/SP
 
 ## Experência Profissional
 
-* 2016 - **Mkt Virtual - *(Emprego Atual)* **
+* 2018 - **Wunderman - *(Emprego Atual)* **
+> Atuo no desenvolvimento e manutenção de landing pages em HTML5, CSS com Pré-processadores *(Sass/Less)* e Javascript/jQuery/VueJs automatizados com Gulp no **FrontEnd**.
+
+* 2016 - **Mkt Virtual**
 > Atuo no desenvolvimento de sites com PHP e MySQL utilizando wordpress no **Back End** e HTML5, CSS com Pré-processadores *(Sass/Less)* e Javascript/jQuery/VueJs automatizados com Grunt no **FrontEnd**.
 
 
