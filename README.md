@@ -47,7 +47,10 @@ São Paulo/SP
 
 ## Experência Profissional
 
-* 2018 - **Wunderman - *(Emprego Atual)* **
+* 2019 - **Blue Digital - *(Emprego Atual)* **
+> Atuo no desenvolvimento e manutenção de landing pages em HTML5, CSS com Pré-processadores *(Sass/Less)* e Javascript/ReactJS, utilizando testes automatizados com JEST no **FrontEnd**.
+
+* 2018 - **Wunderman **
 > Atuo no desenvolvimento e manutenção de landing pages em HTML5, CSS com Pré-processadores *(Sass/Less)* e Javascript/jQuery/VueJs automatizados com Gulp no **FrontEnd**.
 
 * 2016 - **Mkt Virtual**
